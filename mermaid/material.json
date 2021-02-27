@@ -1,0 +1,22 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Material",
+    "description": "The materials used for the creation of this project",
+    "yarn": "Cotton ‘Egypto 2’ by Mafil - Manifattura Filati di Romagnano Sesia",
+    "crochet_hook": "4mm and 3mm",
+    "image": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/material.jpg",
+    "thumbnail": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/material.jpg",
+    "date": "10/01/2021"
+  },
+  "it": {
+    "name": "Material",
+    "description": "The materials used for the creation of this project",
+    "yarn": "Cotton ‘Egypto 2’ by Mafil - Manifattura Filati di Romagnano Sesia",
+    "crochet_hook": "4mm and 3mm",
+    "image": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/material.jpg",
+    "thumbnail": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/material.jpg",
+    "date": "10/01/2021"
+  }
+}
