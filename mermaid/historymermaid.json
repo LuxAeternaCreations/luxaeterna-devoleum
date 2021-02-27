@@ -1,0 +1,16 @@
+{
+  "multi_lang": true,
+  "section": "history",
+  "en": {
+    "name": "Mermaid Bralette",
+    "description": "This is a Crochet Bralette made by hand. Both the design and the product are uniquely created by LuxAeternaCreations.",
+    "website_url" : "www.instagram.com/lux.aeterna.creations",
+    "date": "01/01/2021"
+  },
+  "it": {
+    "name": "Mermaid Bralette",
+    "description": "This is a Crochet Bralette made by hand. Both the design and the product are uniquely created by LuxAeternaCreations.",
+    "website_url" : "www.instagram.com/lux.aeterna.creations",
+    "date": "01/01/2021"
+  }
+}
