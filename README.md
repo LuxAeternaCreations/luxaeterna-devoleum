@@ -1,2 +1,2 @@
-# luxeterna-devoleum
+# luxaeterna-devoleum
 luxeterna devoleum dataset
