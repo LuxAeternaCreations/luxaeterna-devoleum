@@ -1,0 +1,18 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Publication of the Design/Pattern",
+    "description": "The design or crochet pattern is formatted in PDF and published on Etsy and Raverly for other crocheters to follow and re-create the same bralette.",
+    "image": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/publication.jpg",
+    "thumbnail": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/publication.jpg",
+    "date": "01/01/2021"
+  },
+  "it": {
+    "name": "Publication of the Design/Pattern",
+    "description": "The design or crochet pattern is formatted in PDF and published on Etsy and Raverly for other crocheters to follow and re-create the same bralette.",
+    "image": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/publication.jpg",
+    "thumbnail": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/publication.jpg",
+    "date": "01/01/2021"
+  }
+}

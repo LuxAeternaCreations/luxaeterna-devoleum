@@ -1,0 +1,24 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Creation",
+    "description": "This phase is the work by hand of crocheting. It’s a slow process that requires time. Each stitch is made by hand interlocking the yarn with the crochet hook.",
+    "image": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/creation.jpg",
+    "thumbnail": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/creation.jpg",
+    "method": "Handmade",
+    "style": "Crochet",
+    "tools": "Crochet Hook, Yarn",
+    "date": "01/12/2020 - 01/01/2021"
+  },
+  "it": {
+    "name": "Creation",
+    "description": "This phase is the work by hand of crocheting. It’s a slow process that requires time. Each stitch is made by hand interlocking the yarn with the crochet hook.",
+    "image": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/creation.jpg",
+    "thumbnail": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/creation.jpg",
+    "method": "Handmade",
+    "style": "Crochet",
+    "tools": "Crochet Hook, Yarn",
+    "date": "01/12/2020 - 01/01/2021"
+  }
+}

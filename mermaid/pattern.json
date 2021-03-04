@@ -1,0 +1,20 @@
+{
+  "multi_lang": true,
+  "section": "step",
+  "en": {
+    "name": "Writing the Crochet Pattern",
+    "description": "The pattern for this design is written in crochet terminology. A lot of trial and error comes with it as the idea is being put into physical form. It is very descriptive and every step comes with an image as it’s easier to follow for other crocheters.",
+    "image": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/pattern.jpg",
+    "thumbnail": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/pattern.jpg",
+    "tools": "Camera, Crochet Hook, Yarn",
+    "date": "01/09/2020 - 01/01/2021"
+  },
+  "it": {
+    "name": "Writing the Crochet Pattern",
+    "description": "The pattern for this design is written in crochet terminology. A lot of trial and error comes with it as the idea is being put into physical form. It is very descriptive and every step comes with an image as it’s easier to follow for other crocheters.",
+    "image": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/pattern.jpg",
+    "thumbnail": "https://github.com/Devoleum/luxeterna-devoleum/raw/main/mermaid/imgs/pattern.jpg",
+    "tools": "Camera, Crochet Hook, Yarn",
+    "date": "01/09/2020 - 01/01/2021"
+  }
+}
